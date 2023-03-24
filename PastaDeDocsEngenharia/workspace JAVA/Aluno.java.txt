@@ -1,0 +1,8 @@
+public class Aluno{
+
+	public main void String(args){
+	
+	String aluno Aluno = new Aluno;
+
+}
+}
